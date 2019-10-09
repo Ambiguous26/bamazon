@@ -7,7 +7,7 @@ Values 	("Modern Warefare", 35.0000, "Video Games", 12),
 	("Hair Dryer",	9.0000,	"Cosmetics",	525),
 	("Printer Ink Cartriges",	15.0000,	"Stationary",	200),
 	("Headphones",	300.0000,	"Audio",	70),
-	("Pioneer Car Stero",	125.0000,	"Audio",	32),
+	("Pioneer Car Stereo",	125.0000,	"Audio",	32),
 	("Shoes",	100.0000,	"Apparel",	205);
 
 SELECT * FROM bamazon_db.products;
